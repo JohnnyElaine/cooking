@@ -1,4 +1,3 @@
-
 # Wiener Kaiserschmarrn
 ## Zutaten
 - 4 Eier (Größe: M)
